@@ -1201,6 +1201,12 @@
 			<Russian>Вы не можете упаковать %1 сейчас</Russian>
 			<Spanish>No puedes empacar tu %1 en este momento</Spanish>
 		</Key>
+		<Key ID="STR_CL_DA_BUILD_COMBAT">
+			<English>Can't build a %1 while in combat!</English>
+			<!-- <German>TO DO</German> -->
+			<!-- <Russian>TO DO/Russian> -->
+			<!-- <Spanish>TO DO</Spanish> -->
+		</Key>
 		<Key ID="STR_CL_DA_PACK_COMBAT">
 			<English>You can't pack your %1 while in combat!</English>
 			<German>Du kannst %1 nicht demontieren, wenn du im Kampf bist!</German>
@@ -1230,6 +1236,18 @@
 			<German>Du hast %1 (abschließbar) gebaut, der Schlüssel ist: %2</German>
 			<Russian>Вы скрафтили запираемый %1, ключ: %2.</Russian>
 			<Spanish>Has desplegado un/a %1 con cerradura, la llave es: %2</Spanish>
+		</Key>
+		<Key ID="STR_CL_DA_PACK_INTERRUPTED">
+			<English>Packing %1 interrupted!</English>
+			<!-- <German>TO DO</German> -->
+			<!-- <Russian>TO DO/Russian> -->
+			<!-- <Spanish>TO DO</Spanish> -->
+		</Key>
+		<Key ID="STR_CL_DA_PACK_OK">
+			<English>You packed %1 back into your %2</English>
+			<!-- <German>TO DO</German> -->
+			<!-- <Russian>TO DO/Russian> -->
+			<!-- <Spanish>TO DO</Spanish> -->
 		</Key>
 	</Package>
 
